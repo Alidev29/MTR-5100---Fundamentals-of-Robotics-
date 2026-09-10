@@ -1,0 +1,3 @@
+Joint;GravityTorque_Nm;JointTorqueReq_Nm;MotorTorqueReq_Nm;MotorSpeedReq_rpm;TorqueOK;SpeedOK;Pass
+Joint 1;17.535375;26.3030625;0.618895588;716.1972439;1;1;1
+Joint 2;4.291875;6.4378125;0.151477941;954.9296586;1;1;1

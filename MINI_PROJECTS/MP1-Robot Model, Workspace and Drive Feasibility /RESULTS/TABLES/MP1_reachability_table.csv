@@ -1,0 +1,4 @@
+Point;x_m;y_m;r_inner_m;r_outer_m;RadialBoundOK;IK_JointLimitOK;q1_deg;q2_deg;NearestSampledDist_m;Explanation
+P1;0.54;0.11;0.1;0.8;1;1;-27.80621286;93.87724456;0.004518438;Radial bound and IK/joint-limit checks both pass -> reachable
+P2;0.35;0.425;0.1;0.8;1;1;11.16889976;93.98207858;0.001437723;Radial bound and IK/joint-limit checks both pass -> reachable
+P3;0.835;0;0.1;0.8;0;0;NaN;NaN;0.035084763;Outside geometric annulus |L1-L2| <= r <= L1+L2 -> unreachable
